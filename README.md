@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I write code, look at the constellations, watch anime and take dog pictures.
+
 <!--
 **daspacebar/daspacebar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/daspacebar)
